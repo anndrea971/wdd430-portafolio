@@ -8,7 +8,7 @@ export default function Header() {
         className="mx-auto flex max-w-4xl flex-wrap items-center justify-between gap-2 px-4 py-4"
       >
         <div id="header-title" className="text-2xl font-bold">
-          Your Name
+          Andrea Gonzalez
         </div>
         <ul className="flex gap-6">
           <li>

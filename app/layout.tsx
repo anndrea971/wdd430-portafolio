@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Your Name | Portfolio",
+  title: "Andrea Gonzalez | Portfolio",
   description: "A simple portfolio site built with Next.js, TypeScript, and Tailwind CSS.",
 };
 
