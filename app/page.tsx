@@ -1,20 +1,18 @@
 import ProjectList, { type Project } from "@/components/ProjectList";
 
-// TODO: Replace these with projects you have actually built.
-// Each entry needs an accurate title, description, technologies, and a working link.
 const projects: Project[] = [
   {
     title: "Personal Portfolio",
     description:
       "A responsive portfolio site built with the Next.js App Router, TypeScript, and Tailwind CSS.",
     technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    link: "https://github.com/your-username/wdd430-portfolio",
+    link: "https://github.com/anndrea971/wdd430-portfolio",
   },
   {
-    title: "Replace With Your Second Project",
-    description: "Describe a project you have built and what it does.",
+    title: "SLP Toolkit",
+    description: "SLP Toolkit is a web application that provides tools and resources for speech-language pathologists (SLPs) to help them in their daily work.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    link: "https://github.com/your-username/your-second-project",
+    link: "https://anndrea971.github.io/SLP-Toolkit/",
   },
 ];
 
