@@ -4,7 +4,7 @@ A simple portfolio site built for the W01 assignment with the Next.js App Router
 
 ## Live Site 
 
-- **Vercel deployment:** https://portfolio-username.vercel.app <!-- replace -->
+- **Vercel deployment:** https://wdd430-portafolio-dusky.vercel.app/ 
 - **GitHub repository:** https://github.com/anndrea971/wdd430-portafolio 
 
 ## Pages and Project Structure
