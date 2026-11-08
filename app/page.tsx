@@ -6,7 +6,7 @@ const projects: Project[] = [
     description:
       "A responsive portfolio site built with the Next.js App Router, TypeScript, and Tailwind CSS.",
     technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    link: "https://anndrea971.github.io/wdd430-portafolio/",
+    link: "https://github.com/anndrea971/wdd430-portafolio",
   },
   {
     title: "SLP Toolkit",
